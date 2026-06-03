@@ -56,35 +56,87 @@ The goal of this project was to:
 |------|-------|
 | **Poppins** | ALL Text and Elements |
 
-## 📸 Wireframes
+# 📱 Wireframes
 
-### Low-Fidelity Wireframes
+## 🚀 Splash Screen
 
-| Wireframe Name | Description | Preview |
-|----------------|-------------|---------|
-| Splash Screen | Application launch screen | ![Splash](Images\WireFrame\Splash-Screen.png) |
-| Onboarding Screens | Feature introduction screens | ![Onboarding](Images\WireFrame\Onboarding-Screen.png) |
-| Phone Login | Phone number and OTP verification | ![Phone Login](Images\WireFrame\Phone-login.png) |
-| Home Map | Main navigation and destination search | ![Home Map](Images\WireFrame\Home-Map-Screen.png) |
-| Fare Estimator | Fare calculation and trip planning | ![Fare Estimator](Images\WireFrame\Fare-Estimator.png) |
-| Active Trip | Live trip tracking and fare monitoring | ![Active Trip](Images\WireFrame\Active-Trip-Screen.png) |
-| Share Trip | Share live trip details with contacts | ![Share Trip](Images\WireFrame\Share-Trip-Screen.png) |
-| Panic Mode | Emergency SOS and safety assistance | ![Panic Mode](Images\WireFrame\Emergency-Trip-Screen.png) |
-| Trip History | View previous rides and fare records | ![Trip History](Images\WireFrame\Trip-History-Screen.png) |
+The Splash Screen serves as the application's entry point, introducing users to the SafeMeter brand while the application initializes. The screen focuses on brand recognition and provides a smooth first impression before onboarding begins.
 
-## 📱 Mobile Wireframes (Visual Design)
+<img width="402" height="874" alt="Splash-Screen" src="https://github.com/user-attachments/assets/edd11d18-c4f1-431f-9040-66e3c5dd3e1b" />
 
-| Screen | Description |
-|--------|-------------|
-| Splash Screen | Application launch screen |
-| Onboarding Screens | Feature introduction screens |
-| Phone Login | Phone number and OTP verification |
-| Home Map | Main navigation and destination search |
-| Fare Estimator | Fare calculation and trip planning |
-| Active Trip | Live trip tracking and fare monitoring |
-| Share Trip | Share live trip details with contacts |
-| Panic Mode | Emergency SOS and safety assistance |
-| Trip History | View previous rides and fare records |
+
+---
+
+## 👋 Onboarding Screen
+
+The onboarding experience introduces users to SafeMeter's core features, including fare estimation, trip sharing, and passenger safety tools. The goal is to quickly communicate the value of the application and encourage user engagement.
+
+<img width="402" height="874" alt="Onboarding-Screen" src="https://github.com/user-attachments/assets/2c780484-99f6-4b22-864e-03d169fd8873" />
+
+
+---
+
+## 🔐 Phone Login
+
+The Phone Login screen enables secure authentication through mobile number verification and OTP confirmation. This approach provides a simple and familiar sign-in process while ensuring account security.
+
+<img width="402" height="874" alt="Phone-login" src="https://github.com/user-attachments/assets/f3ff29b0-5c10-4253-ae98-b5ea4646b860" />
+
+
+---
+
+## 🗺️ Home Map Screen
+
+The Home Map screen acts as the primary dashboard of the application. Users can search for destinations, view their current location, access fare estimation features, and quickly trigger emergency assistance when needed.
+
+<img width="402" height="874" alt="Home-Map-Screen" src="https://github.com/user-attachments/assets/ed457582-0ef5-4689-9d08-0f9f43f87028" />
+
+
+---
+
+## 💰 Fare Estimator
+
+The Fare Estimator allows users to enter pickup and destination locations to receive an estimated trip fare. This feature promotes transparency and helps passengers make informed travel decisions before starting a ride.
+
+<img width="402" height="874" alt="Fare-Estimator" src="https://github.com/user-attachments/assets/633361c6-2b9c-4aac-b035-d2603b0e1dad" />
+
+
+---
+
+## 🚕 Active Trip Screen
+
+The Active Trip screen provides real-time trip monitoring, including fare tracking, elapsed travel time, and route visibility. It keeps users informed throughout their journey while maintaining access to safety features.
+
+<img width="402" height="874" alt="Active-Trip-Screen" src="https://github.com/user-attachments/assets/8a83d21d-ff0c-49a7-b4e6-c77e60a1f72e" />
+
+
+---
+
+## 📤 Share Trip Screen
+
+The Share Trip feature enables passengers to share live trip information with trusted contacts. This functionality enhances user safety by allowing family members or friends to monitor trip progress in real time.
+
+<img width="402" height="874" alt="Share-Trip-Screen" src="https://github.com/user-attachments/assets/28c6d7d5-7a82-42dc-b353-ad12ce61cfb6" />
+
+
+---
+
+## 🚨 Panic Mode Screen
+
+The Panic Mode screen is designed for emergency situations. Users can quickly activate an SOS alert, share their current location, and access emergency assistance with minimal interaction.
+
+<img width="402" height="874" alt="Emergency-Trip-Screen" src="https://github.com/user-attachments/assets/ec7f2184-eea1-424c-9e26-f24de5849528" />
+
+
+---
+
+## 📜 Trip History Screen
+
+The Trip History screen provides users with access to previous rides, fare records, and travel details. This feature helps users review past trips and monitor transportation expenses.
+
+<img width="402" height="874" alt="Trip-History-Screen" src="https://github.com/user-attachments/assets/93507367-9040-46e1-8add-e66c39eb89c2" />
+
+
 
 ## 💡 Key Features
 
