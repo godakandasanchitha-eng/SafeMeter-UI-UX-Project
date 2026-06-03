@@ -54,7 +54,7 @@ The goal of this project was to:
 
 | Font | Usage |
 |------|-------|
-| **Poppins** | ALl Text and Elements |
+| **Poppins** | ALL Text and Elements |
 
 ## 📸 Wireframes
 
